@@ -231,6 +231,18 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.column{
+		flex: 50%;
+		padding: 0 4px;
+	}
+
+	.column img {
+		margin-top: 50px;
+		float: left;
+		width: 33.33%;
+		padding: 5px;
+	  }
+
 /* Row */
 
 	.row {
