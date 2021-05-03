@@ -2719,7 +2719,7 @@ input, select, textarea {
 		}
 
 		#header a {
-			color: #d2f2e9;
+			color: #888a89;
 		}
 
 			#header a:hover {
@@ -2783,7 +2783,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #8f8f91bd;
+					border-top: solid 2px #5c5c5ebd;
 					display: block;
 					padding: 0;
 				}
@@ -2801,8 +2801,8 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: rgb(201, 205, 226);
-							color: #3b3b3dbd !important;
+							background: rgb(128, 127, 127);
+							color: #ffffff !important;
 						}
 
 					#header > nav ul li:first-child {
