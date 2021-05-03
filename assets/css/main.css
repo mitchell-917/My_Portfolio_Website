@@ -233,6 +233,7 @@ input, select, textarea {
 
 	.column{
 		flex: 50%;
+		width: 33.33%;
 		padding: 0 4px;
 	}
 
@@ -240,7 +241,7 @@ input, select, textarea {
 		margin-top: 50px;
 		float: left;
 		width: 33.33%;
-		padding: 5px;
+		padding: 25px;
 	  }
 
 /* Row */
@@ -249,7 +250,7 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
-		align-items: stretch;
+		align-items: flex-end;
 	}
 
 		.row > * {
@@ -2207,7 +2208,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			height: 24em;
+			height: 25em;
 			border-radius: 0;
 		}
 
@@ -2826,7 +2827,7 @@ input, select, textarea {
 	#wrapper {
 		background: #fff;
 		padding-right: 20em;
-		right: 100;
+		right: 0;
 	}
 
 /* Main */
@@ -2836,7 +2837,7 @@ input, select, textarea {
 	}
 
 		#main > section > .container {
-			padding: 6em 0 4em 0;
+			padding: 6em 0 5em 0;
 		}
 
 		#main > section:first-child {
