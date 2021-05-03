@@ -2216,7 +2216,7 @@ input, select, textarea {
 		}
 
 	ul {
-		list-style: disc;
+		list-style-type: none;
 		margin: 0 0 2.25em 0;
 		padding-left: 1em;
 	}
