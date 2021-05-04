@@ -2204,8 +2204,8 @@ input, select, textarea {
 			}
 
 		.image.main {
-			display: block;
-			height: 25em;
+			display: flex;
+			height: 24em;
 			border-radius: 0;
 		}
 
